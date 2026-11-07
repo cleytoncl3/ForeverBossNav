@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Forever Boss Nav
+## Notes: Lista de bosses em ordem para todas as dungeons e raids do WoW Forever, com proximo boss, kills e seta de navegacao.
+## Notes-ptBR: Lista de bosses em ordem para todas as dungeons e raids do WoW Forever, com proximo boss, kills e seta de navegacao.
+## Author: cleytoncl3
+## Version: 1.0.0
+## SavedVariables: ForeverBossNavDB
+## IconTexture: Interface\Icons\INV_Misc_Map_01
+
+Data.lua
+Core.lua
