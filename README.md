@@ -50,3 +50,7 @@ Na lista: **clique** marca/desmarca um boss como morto; **Shift+clique** grava a
 ## Atualizar os dados
 
 `tools/gen.js` gera o `Data.lua` a partir das páginas de instância do wowforevertalents.com salvas em `raw/<slug>.html` e de um `bosses2.json` com o ID de mapa de cada uma. Rode `node tools/gen.js Data.lua` na pasta onde estão esses arquivos.
+
+## Licença
+
+MIT, veja [LICENSE](LICENSE).
